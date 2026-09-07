@@ -21,4 +21,4 @@
 SC-300 · AZ-500 · Okta Certified Professional · Saviynt ISAA · SailPoint Certified · CCNA Security · ISC2 CC
 
 ### Connect
-[Portfolio](https://edlaraju200.github.io) · [LinkedIn](https://linkedin.com/in/raju-edla)
+[Portfolio](https://edlaraju200.github.io) · [LinkedIn](https://linkedin.com/in/raju-edla) · [Resume](https://github.com/edlaraju200/edlaraju200/blob/main/Raju_Edla_Resume.pdf)
